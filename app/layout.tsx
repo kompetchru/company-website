@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     template: "%s | Xyber Tech Solution",
   },
   description:
-    "บริษัท Xyber Tech Solution ให้บริการด้านไอทีครบวงจร ได้แก่ ระบบฐานข้อมูล เซิร์ฟเวอร์ คลาวด์ และการกู้คืนระบบ (DR) สำหรับองค์กรธุรกิจทั่วประเทศไทย",
+    "บริษัท Xyber Tech Solution ให้บริการด้านไอทีครบวงจร ได้แก่ ระบบฐานข้อมูล เซิร์ฟเวอร์ คลาวด์ และการกู้คืนระบบ (DR) สำหรับองค์กรธุรกิจทั่วประเทศไทย — xybertechsolution.com",
   keywords: [
     "IT Solutions",
     "ไอที โซลูชันส์",
