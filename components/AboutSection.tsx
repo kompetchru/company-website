@@ -79,7 +79,7 @@ export default function AboutSection() {
 
             {/* Cert badges */}
             <div className="mt-8 pt-6 border-t border-white/10 flex flex-wrap gap-3">
-              {["ISO 27001", "Microsoft Gold Partner", "AWS Partner"].map((cert) => (
+              {["ISO 27001", "VMware Partner"].map((cert) => (
                 <span key={cert} className="bg-white/10 border border-white/20 rounded-lg px-3 py-1.5 text-xs font-medium text-white/80">
                   {cert}
                 </span>

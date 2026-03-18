@@ -19,8 +19,6 @@ const team = [
 
 const certifications = [
   { name: "ISO 27001:2022", desc: "มาตรฐานการจัดการความปลอดภัยสารสนเทศ" },
-  { name: "Microsoft Gold Partner", desc: "พันธมิตรระดับโกลด์จาก Microsoft" },
-  { name: "AWS Advanced Consulting Partner", desc: "พันธมิตรระดับสูงจาก Amazon Web Services" },
   { name: "VMware Partner", desc: "พันธมิตรด้าน Virtualization จาก VMware" },
 ];
 
