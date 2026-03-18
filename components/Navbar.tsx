@@ -39,7 +39,7 @@ export default function Navbar() {
             </div>
             <div>
               <p className={`font-bold text-base leading-tight transition-colors ${scrolled ? "text-[#0A2463]" : "text-white"}`}>
-                โปรเทค
+                Xyber Tech
               </p>
               <p className={`text-xs leading-tight transition-colors ${scrolled ? "text-[#00B4D8]" : "text-[#00B4D8]"}`}>
                 IT Solutions

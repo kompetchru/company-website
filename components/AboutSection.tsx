@@ -46,7 +46,7 @@ export default function AboutSection() {
               <span className="text-[#00B4D8]">ไว้วางใจได้</span>
             </h2>
             <p className="text-gray-500 text-base leading-relaxed mb-4">
-              บริษัท โปรเทค ไอที โซลูชันส์ จำกัด ก่อตั้งในปี 2552 ด้วยวิสัยทัศน์ที่ชัดเจนในการเป็น
+              บริษัท Xyber Tech Solution จำกัด ก่อตั้งในปี 2552 ด้วยวิสัยทัศน์ที่ชัดเจนในการเป็น
               พันธมิตรด้านไอทีที่ครบวงจรและน่าเชื่อถือสำหรับองค์กรธุรกิจในประเทศไทย
             </p>
             <p className="text-gray-500 text-base leading-relaxed mb-8">

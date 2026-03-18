@@ -26,7 +26,7 @@ export default function Footer() {
                 <span className="text-white font-bold text-lg">P</span>
               </div>
               <div>
-                <p className="font-bold text-base text-white">โปรเทค</p>
+                <p className="font-bold text-base text-white">Xyber Tech</p>
                 <p className="text-[#00B4D8] text-xs">IT Solutions</p>
               </div>
             </Link>
@@ -36,7 +36,7 @@ export default function Footer() {
             {/* Social */}
             <div className="flex gap-3">
               {[
-                { label: "LINE", icon: "💬", href: "https://line.me/ti/p/~@protech_it" },
+                { label: "LINE", icon: "💬", href: "https://line.me/ti/p/~@xybertechsolution" },
                 { label: "Facebook", icon: "📘", href: "#" },
                 { label: "LinkedIn", icon: "🔗", href: "#" },
               ].map((s) => (
@@ -113,17 +113,17 @@ export default function Footer() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                   </svg>
                 </span>
-                <a href="mailto:info@protech-it.co.th" className="text-white/60 text-sm hover:text-white transition-colors">info@protech-it.co.th</a>
+                <a href="mailto:info@xybertech.co.th" className="text-white/60 text-sm hover:text-white transition-colors">info@xybertech.co.th</a>
               </li>
               <li className="flex items-center gap-3">
                 <span className="text-[#00B4D8] text-sm">LINE:</span>
                 <a
-                  href="https://line.me/ti/p/~@protech_it"
+                  href="https://line.me/ti/p/~@xybertechsolution"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white/60 text-sm hover:text-white transition-colors"
                 >
-                  @protechit
+                  @xybertechsolution
                 </a>
               </li>
             </ul>
@@ -133,7 +133,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-white/10 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-white/40 text-sm">
-            © {new Date().getFullYear()} บริษัท โปรเทค ไอที โซลูชันส์ จำกัด. สงวนลิขสิทธิ์
+            © {new Date().getFullYear()} บริษัท Xyber Tech Solution จำกัด. สงวนลิขสิทธิ์
           </p>
           <div className="flex gap-5">
             <Link href="/privacy" className="text-white/40 text-xs hover:text-white/70 transition-colors">นโยบายความเป็นส่วนตัว</Link>

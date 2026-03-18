@@ -36,7 +36,7 @@ export default function Hero() {
             </h1>
 
             <p className="text-white/80 text-lg leading-relaxed mb-8 max-w-xl">
-              โปรเทค ไอที โซลูชันส์ ให้บริการด้านไอทีระดับองค์กรครบวงจร ตั้งแต่ระบบฐานข้อมูล
+              Xyber Tech Solution ให้บริการด้านไอทีระดับองค์กรครบวงจร ตั้งแต่ระบบฐานข้อมูล
               เซิร์ฟเวอร์ คลาวด์ ไปจนถึงระบบ Disaster Recovery ด้วยทีมผู้เชี่ยวชาญกว่า 15 ปี
             </p>
 

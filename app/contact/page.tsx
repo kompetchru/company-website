@@ -7,7 +7,7 @@ import LineButton from "@/components/LineButton";
 export const metadata: Metadata = {
   title: "ติดต่อเรา",
   description:
-    "ติดต่อทีมผู้เชี่ยวชาญของโปรเทค ไอที โซลูชันส์ โทร 02-600-0000 หรือส่งอีเมล info@protech-it.co.th",
+    "ติดต่อทีมผู้เชี่ยวชาญของ Xyber Tech Solution โทร 02-600-0000 หรือส่งอีเมล info@xybertech.co.th",
 };
 
 const contactInfo = [
@@ -30,9 +30,9 @@ const contactInfo = [
       </svg>
     ),
     title: "อีเมล",
-    value: "info@protech-it.co.th",
+    value: "info@xybertech.co.th",
     sub: "ตอบกลับภายใน 24 ชั่วโมง",
-    href: "mailto:info@protech-it.co.th",
+    href: "mailto:info@xybertech.co.th",
     color: "from-violet-500 to-violet-700",
   },
   {
@@ -42,9 +42,9 @@ const contactInfo = [
       </svg>
     ),
     title: "LINE Official",
-    value: "@protechit",
+    value: "@xybertechsolution",
     sub: "แชทได้ตลอด 24 ชั่วโมง",
-    href: "https://line.me/ti/p/~@protech_it",
+    href: "https://line.me/ti/p/~@xybertechsolution",
     color: "from-green-500 to-green-700",
   },
   {
@@ -165,7 +165,7 @@ export default function ContactPage() {
                   </ul>
                   <div className="mt-4 pt-4 border-t border-gray-200">
                     <p className="text-xs text-gray-400">
-                      * สำหรับลูกค้าที่มี SLA Support สามารถติดต่อ Helpdesk 24/7 ได้ที่ LINE: @protechit
+                      * สำหรับลูกค้าที่มี SLA Support สามารถติดต่อ Helpdesk 24/7 ได้ที่ LINE: @xybertechsolution
                     </p>
                   </div>
                 </div>

@@ -95,8 +95,8 @@ export default function HomePage() {
                 <div className="space-y-5">
                   {[
                     { icon: "📞", title: "โทรศัพท์", value: "02-600-0000", href: "tel:026000000" },
-                    { icon: "📧", title: "อีเมล", value: "info@protech-it.co.th", href: "mailto:info@protech-it.co.th" },
-                    { icon: "💬", title: "LINE OA", value: "@protechit", href: "https://line.me/ti/p/~@protech_it" },
+                    { icon: "📧", title: "อีเมล", value: "info@xybertech.co.th", href: "mailto:info@xybertech.co.th" },
+                    { icon: "💬", title: "LINE OA", value: "@xybertechsolution", href: "https://line.me/ti/p/~@xybertechsolution" },
                     { icon: "🕐", title: "เวลาทำการ", value: "จ-ศ 08:00 - 18:00 น.", href: null },
                   ].map((item) => (
                     <div key={item.title} className="flex items-center gap-4">

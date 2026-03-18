@@ -7,7 +7,7 @@ import LineButton from "@/components/LineButton";
 export const metadata: Metadata = {
   title: "เกี่ยวกับเรา",
   description:
-    "บริษัท โปรเทค ไอที โซลูชันส์ จำกัด ก่อตั้งปี 2552 ให้บริการด้านไอทีครบวงจรกว่า 15 ปี ด้วยทีมผู้เชี่ยวชาญกว่า 120 คน",
+    "บริษัท Xyber Tech Solution จำกัด ก่อตั้งปี 2552 ให้บริการด้านไอทีครบวงจรกว่า 15 ปี ด้วยทีมผู้เชี่ยวชาญกว่า 120 คน",
 };
 
 const team = [
@@ -46,7 +46,7 @@ export default function AboutPage() {
               เกี่ยวกับเรา
             </span>
             <h1 className="text-4xl sm:text-5xl font-bold text-white mb-6">
-              รู้จักโปรเทค ไอที โซลูชันส์
+              รู้จัก Xyber Tech Solution
             </h1>
             <p className="text-white/80 text-lg max-w-2xl mx-auto">
               มากกว่า 15 ปีในการสร้างโครงสร้างพื้นฐานไอทีที่แข็งแกร่งให้กับองค์กรชั้นนำในประเทศไทย
